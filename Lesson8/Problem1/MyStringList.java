@@ -158,3 +158,14 @@ public class MyStringList {
 	}
 
 }
+
+
+/*
+
+//OUT PUT
+
+Data before sort: [big, small, tall, short, round, square, enormous, tiny, gargantuan, lilliputian, numberless, none, vast, miniscule]
+Data after sort: [big, enormous, gargantuan, lilliputian, miniscule, none, numberless, round, short, small, square, tall, tiny, vast]
+Searching for 'number': false
+Searching for 'tiny': true
+*/
