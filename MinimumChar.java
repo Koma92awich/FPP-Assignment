@@ -24,8 +24,7 @@ public class MinimumChar {
          
         if(qwe.isEmpty())
              return 0;
-     
-           
+        
         if(qwe.length() == 1)
              return qwe.charAt(0);
                    
@@ -46,7 +45,7 @@ public class MinimumChar {
         
         else {
            qwe = first+qwe.substring(1);
-            System.out.println(qwe);
+            //System.out.println(qwe);
         }
         return min(qwe);
     
