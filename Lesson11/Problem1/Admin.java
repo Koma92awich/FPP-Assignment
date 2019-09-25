@@ -11,6 +11,6 @@ public class Admin {
 			value.put(keys, std);
 		}
 		
-		return null;
+		return value;
 	}
 }
